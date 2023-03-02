@@ -1,1 +1,1 @@
-This is a repository for practicing Python- useful for referencde and also projects.
+This is a repository for practicing Python- useful for reference and also projects.
